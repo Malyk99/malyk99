@@ -61,6 +61,17 @@ You can view my CV [here](./path-to-your-cv.pdf) or download it directly by clic
 - [Interest 3, e.g., UX/UI Design]
 
 ---
+## 🛠️ Skills
+
+- **Languages**: Python, JavaScript, C++
+- **Frameworks**: React, Node.js
+- **Tools**: Git, Docker
+
+---
+
+## 🌟 Simple Animation
+
+![Simple Animation](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 ## 📬 Contact Me
 
