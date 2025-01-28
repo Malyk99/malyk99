@@ -31,7 +31,9 @@ You can view my CV [here](./path-to-your-cv.pdf) or download it directly by clic
 - **Others**: [e.g., Git, Docker, Figma]
 
 ---
+## 📊 Languages Used
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)---
 ## 🌟 Projects
 
 ### 🚀 Project Name 1
