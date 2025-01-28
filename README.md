@@ -33,7 +33,11 @@ You can view my CV [here](./path-to-your-cv.pdf) or download it directly by clic
 ---
 ## 📊 Languages Used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)---
+![JavaScript](https://img.shields.io/badge/JavaScript-40%25-yellow?style=flat-square)
+![Python](https://img.shields.io/badge/Python-30%25-blue?style=flat-square)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-15%25-orange?style=flat-square)
+![Other](https://img.shields.io/badge/Other-15%25-lightgrey?style=flat-square)
+
 ## 🌟 Projects
 
 ### 🚀 Project Name 1
