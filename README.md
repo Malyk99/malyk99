@@ -1,8 +1,8 @@
 ## Hi there 👋
-# 💼 [Your Name]
+# 💼 [Malyk Dorgham]
 
-🌐 **Website/Portfolio**: [yourwebsite.com](https://yourwebsite.com)  
-📧 **Email**: yourname@email.com  
+
+📧 **Email**: malykdorgham1@gmail.com  
 📍 **Location**: Your City, Country  
 🔗 **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
 🐙 **GitHub**: [github.com/yourusername](https://github.com/yourusername)
