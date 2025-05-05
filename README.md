@@ -1,9 +1,9 @@
 ## Hi there 👋
-# 💼 [Malyk Dorgham]
+# 💼 Malyk Dorgham
 
 
 📧 **Email**: malykdorgham1@gmail.com  
-📍 **Location**: Your City, Country  
+📍 **Location**: Madrid, Spain
 🔗 **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
 🐙 **GitHub**: [github.com/yourusername](https://github.com/yourusername)
 
