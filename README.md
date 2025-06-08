@@ -11,7 +11,6 @@
 
 ## 📝 About Me
 
-[Brief introduction about yourself. For example:]  
 I am a Software Developper with 1 year of experience in Web App Developpement. Passionate about videogames, Fantasy worldbuilding and running, I love solving complex problems and creating impactful solutions.
 
 ---
