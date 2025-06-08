@@ -31,24 +31,18 @@ or download it directly by clicking below:
 - **Databases**: MySQL, MongoDB, Firebase & PostgreSQL 
 
 ---
-## 📊 Languages Used
-
-![Java](https://img.shields.io/badge/JavaScript-40%25-yellow?style=flat-square)
-![C#](https://img.shields.io/badge/Python-25%25-blue?style=flat-square)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-25%25-orange?style=flat-square)
-![Python](https://img.shields.io/badge/Other-10%25-lightgrey?style=flat-square)
 
 ## 🌟 Projects
 
 ### 🚀 Hackathon project
 **Description**: Website for the 2025 competition in which we help adoptive families to interconnect and send reusable items between one another. 
 **Technologies**: VS code, XAMPP.  
-[🔗 View Repository](https://github.com/malyk99/)
+[🔗 View Repository]((https://github.com/Malyk99/PolarisWeb))
 
 ---
 
 ### 🚀 Little Demons project
-**Description**: A video game meant to be played with a VR headset and Android phones, interconnected with Firebase for seemless playing. 
+**Description**: A video game meant to be played with a VR headset and Android phones, interconnected with Firebase for seamless playing. 
 **Technologies**: Android Studio, Unity, Firebase.
 [🔗 View Repository](https://github.com/malyk99/TFGVR)
 
