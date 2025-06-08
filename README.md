@@ -18,8 +18,10 @@ I am a Software Developper with 1 year of experience in Web App Developpement. P
 
 ## 📂 CV/Resume
 
-You can view my CV [here]((https://github.com/Malyk99/malyk99/blob/main/MalykDorghamCV.pdf)) or download it directly by clicking below:  
-[📄 **Download CV**]((https://github.com/Malyk99/malyk99/blob/main/MalykDorghamCV.pdf))
+You can view my CV [here](https://github.com/Malyk99/malyk99/blob/main/MalykDorghamCV.pdf)  
+or download it directly by clicking below:  
+[📄 **Download CV**](https://github.com/Malyk99/malyk99/blob/main/MalykDorghamCV.pdf)
+
 
 ---
 
