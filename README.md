@@ -37,7 +37,7 @@ or download it directly by clicking below:
 ### 🚀 Hackathon project
 **Description**: Website for the 2025 competition in which we help adoptive families to interconnect and send reusable items between one another. 
 **Technologies**: VS code, XAMPP.  
-[🔗 View Repository]((https://github.com/Malyk99/PolarisWeb))
+[🔗 View Repository](https://github.com/Malyk99/PolarisWeb)
 
 ---
 
