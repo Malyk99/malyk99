@@ -4,22 +4,22 @@
 
 📧 **Email**: malykdorgham1@gmail.com  
 📍 **Location**: Madrid, Spain
-🔗 **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-🐙 **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+🔗 **LinkedIn**: [linkedin.com/in/yourname]((https://www.linkedin.com/in/malyk-dorgham-junior-developper/))  
+🐙 **GitHub**: [github.com/yourusername](https://github.com/malyk99)
 
 ---
 
 ## 📝 About Me
 
 [Brief introduction about yourself. For example:]  
-I am a [Your Profession] with [X years] of experience in [Your Industry/Expertise Area]. Passionate about [specific topics or skills, e.g., machine learning, web development], I love solving complex problems and creating impactful solutions.
+I am a Software Developper with 1 year of experience in Web App Developpement. Passionate about videogames, Fantasy worldbuilding and running, I love solving complex problems and creating impactful solutions.
 
 ---
 
 ## 📂 CV/Resume
 
-You can view my CV [here](./path-to-your-cv.pdf) or download it directly by clicking below:  
-[📄 **Download CV**](./path-to-your-cv.pdf)
+You can view my CV [here]([./path-to-your-cv.pdf](https://github.com/Malyk99/malyk99/blob/main/MalykDorghamCV.pdf)) or download it directly by clicking below:  
+[📄 **Download CV**]([./path-to-your-cv.pdf](https://github.com/Malyk99/malyk99/blob/main/MalykDorghamCV.pdf))
 
 ---
 
