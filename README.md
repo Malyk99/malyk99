@@ -4,8 +4,8 @@
 
 📧 **Email**: malykdorgham1@gmail.com  
 📍 **Location**: Madrid, Spain
-🔗 **LinkedIn**: [linkedin.com/in/yourname]((https://www.linkedin.com/in/malyk-dorgham-junior-developper/))  
-🐙 **GitHub**: [github.com/yourusername](https://github.com/malyk99)
+🔗 **LinkedIn**: [https://www.linkedin.com/in/malyk-dorgham-junior-developper/]
+🐙 **GitHub**: https://github.com/malyk99
 
 ---
 
